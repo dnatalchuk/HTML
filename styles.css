@@ -1,0 +1,12 @@
+body {
+    background-color:red;
+}
+h1 {
+    color:blue;
+    font-family: courier;
+    font-size: 300%;
+    padding: 20px;
+}
+p {
+  color:white;
+}
